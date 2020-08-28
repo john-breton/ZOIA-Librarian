@@ -7,7 +7,7 @@ This repo is not open to contributions and serves only as a reference.
 The project remains in active development to this day, and the main repo can be found at the following link:
 https://github.com/meanmedianmoge/zoia_lib
 
-The project consists of three phases. 
+The project consisted of three phases. 
 
 ### Phase 1
 The initial phase demanded for the creation of extensive documentation. 

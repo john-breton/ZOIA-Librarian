@@ -10,24 +10,22 @@ https://github.com/meanmedianmoge/zoia_lib
 The project consisted of three phases. 
 
 ### Phase 1
-The initial phase demanded for the creation of extensive documentation. 
-This included a design document that utilizes formal requirement specification, alongside user stories in
-order to create a complete vision for a ZOIA Librarian. Following the completion of this design document, 
-a testing plan and JSON schemas were created, alongside a presentation exploring the pros and cons of
-various backend implementations for the ZOIA Librarian. This phase lasted approximately 1 month.
+The first phase involved the creation of extensive documentation. 
+This documentation included a design document that utilized formal requirement specification alongside user stories to create a complete vision for a ZOIA Librarian. Following the completion of the design document, a testing plan and JSON schemas were created. Finally, a presentation was prepared to explore the pros and cons of various backend implementations for the ZOIA Librarian. 
+This phase lasted approximately one month.
 
 ### Phase 2
-The second phase of the project was the coding of the backend implementation for the ZOIA Librarian. 
-Development was test-driven, which increased the speed at which the backend was created. 
-All major backend functionality was completed in roughly 3 weeks and due to the adherence to TDD, changes
-to this functionality was rare throughout Phase 3.
+The second phase dealt with the coding of the backend implementation for the ZOIA Librarian. 
+Development was test-driven, which helped increase the speed at which features were implemented. The choice was made during Phase 1 that Python would be the main language for the application. As such, the majority of the project was written in Python.
+All major backend functionality was completed in roughly three weeks. Many bugs were avoided due to the adherence to TDD, which helped to reduce the development time of Phase 3.
+This phase lasted approximately one month.
 
 ### Phase 3
 The third and final phase of development dealt with the creation of a frontend graphical user interface.
-Using Qt Designer, the interface was designed, while implementation was coded using the PySide 2 module suite. 
-This phase of development took a considerable amount of time in order to properly develop the features deemed necessary
-during Phase 1. The state of the current application has far surpassed these initial requirements, and the application
-continues to evolve to user feedback to this day. This phase lasted approximately 2 months.
+The interface was designed using Qt Designer. Frontend features were implemented using the PySide 2 module suite and Python. 
+Phase 3 took a considerable amount of time to properly develop the features that were deemed necessary during Phase 1. 
+The state of the current application has far surpassed these initial requirements. The application continues to evolve to user feedback to this day. 
+This phase lasted approximately two months.
 #
 ZOIA is copyright of Empress Effects Inc.
 
